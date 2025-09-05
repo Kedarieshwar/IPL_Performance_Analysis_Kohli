@@ -48,7 +48,7 @@ You can now run the notebook cells. Google Colab comes with most of the required
 Option 2: Running Locally
 Clone the Repository:
 
-git clone [https://github.com/your-username/virat-kohli-ipl-analysis.git](https://github.com/your-username/virat-kohli-ipl-analysis.git)
+git clone https://github.com/Kedarieshwar/IPL_Performance_Analysis_Kohli
 cd virat-kohli-ipl-analysis
 
 Create a Virtual Environment (Recommended):
